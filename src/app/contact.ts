@@ -2,56 +2,56 @@ import { userContact } from './userContact';
 
 export const contacts: userContact[] = [
   {
-    name: 'Shakira Robel',
+    name: 'BlaisePascal',
     email: 'Ashley_Ritchie@hotmail.com',
     phoneNumber: '965-144-6018',
     image: 'http://lorempixel.com/640/480/sports'
   },
 
   {
-    name: 'Green Crist',
+    name: 'AdaLovelace',
     email: 'Rosendo53@hotmail.com',
     phoneNumber: '1-522-714-2638 x44811',
     image: 'http://lorempixel.com/640/480/food'
   },
 
   {
-    name: 'Yvette Dickinson',
+    name: 'KurtGoedel',
     email: 'Yolanda.Abernathy@hotmail.com',
     phoneNumber: '(038) 030-9641 x7086',
     image: 'http://lorempixel.com/640/480/nightlife'
   },
 
   {
-    name: 'Karley Hackett',
+    name: 'Sachin Tendulkar',
     email: 'Icie_Gutmann69@yahoo.com',
     phoneNumber: '(251) 436-6001',
     image: 'http://lorempixel.com/640/480/nightlife'
   },
 
   {
-    name: 'Mrs. Otha Beahan',
+    name: 'Alan Turing',
     email: 'Brice46@yahoo.com',
     phoneNumber: '005-851-7095 x72027',
     image: 'http://lorempixel.com/640/480/food'
   },
 
   {
-    name: 'Ignacio Larson',
+    name: 'A K Erlang',
     email: 'Remington.Boyer63@yahoo.com',
     phoneNumber: '1-471-836-5871 x5841',
     image: 'http://lorempixel.com/640/480/technics'
   },
 
   {
-    name: 'Estel Armstrong',
+    name: 'Niklaus Wirth',
     email: 'Chasity.Metz83@gmail.com',
     phoneNumber: '(247) 305-7427',
     image: 'http://lorempixel.com/640/480/cats'
   },
 
   {
-    name: 'Citlalli Brown',
+    name: 'Greg Whitten',
     email: 'Izabella.Hand21@gmail.com',
     phoneNumber: '475.071.4608 x101',
     image: 'http://lorempixel.com/640/480/transport'
@@ -134,40 +134,6 @@ export const contacts: userContact[] = [
     image: 'http://lorempixel.com/640/480/city'
   },
 
-  {
-    name: 'Nina Beer',
-    email: 'Devon.Aufderhar74@yahoo.com',
-    phoneNumber: '042.181.5876',
-    image: 'http://lorempixel.com/640/480/technics'
-  },
-
-  {
-    name: 'Wayne Schaden',
-    email: 'Augustine46@yahoo.com',
-    phoneNumber: '820-288-0927 x964',
-    image: 'http://lorempixel.com/640/480/animals'
-  },
-
-  {
-    name: 'Arvel Gorczany',
-    email: 'Nadia.Paucek@yahoo.com',
-    phoneNumber: '037.974.9471',
-    image: 'http://lorempixel.com/640/480/fashion'
-  },
-
-  {
-    name: 'Carrie Connelly',
-    email: 'Abigail40@yahoo.com',
-    phoneNumber: '1-150-622-5789 x634',
-    image: 'http://lorempixel.com/640/480/cats'
-  },
-
-  {
-    name: 'Coty Grady',
-    email: 'Lenny_Ziemann@hotmail.com',
-    phoneNumber: '(905) 672-3625 x6378',
-    image: 'http://lorempixel.com/640/480/nature'
-  }
 ];
 
 
