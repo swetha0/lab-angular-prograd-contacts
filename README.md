@@ -64,13 +64,14 @@ To generate the starter code, follow the steps given below
 Once you clone your project, 
 ```cd lab-angular-prograd-contacts
    run the below command
-   npm install --save-dev @angular-devkit/build-angular```
+   npm install --save-dev @angular-devkit/build-angular
+```
 
 ## PROGRESSION 1 | Display Contacts
 
 Let's take a look at the starter code.
 
-There is a file with fake contacts, and the collection of contacts is being exposed to the template in a variable called `contacts`.
+There is a file with fake contacts called contact.ts, and the collection of contacts is being exposed to the template in a variable called `contacts`.
 
 Using `*ngFor`, display the `name`, `email`, `phoneNumber`, and `image` of each contact.
 
